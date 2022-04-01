@@ -15,4 +15,4 @@ Jupyter notebooks with associated datasets are provided in this rep with followi
 4. GaAs - wafer, measured in transient reflection geometry, uses only the transmission spectra to calculate the derivatives (dT/deps)
 
 
-The files of the form 'Constrained Variational KKR - teardown for bear TA Timeslice_($Material$).ipynb' are the Jupyter notebooks and the folders contain the data needed to run the scripts. If copied as is, this should run with the directories.
+The files of the form 'Constrained Variational KKR - teardown for bear TA Timeslice_($Material$).ipynb' are the Jupyter notebooks and the folders contain the data needed to run the scripts. If the whole git is copied as is, the paths should be contained. 
